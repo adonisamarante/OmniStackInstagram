@@ -1,2 +1,2 @@
 # OmniStackInstagram
-React study project from rocketseat
+Node/React/ReactNative study project from rocketseat
